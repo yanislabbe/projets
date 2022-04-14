@@ -14,4 +14,4 @@ Un git regroupant tout mes projets de mon cursus chez 42 Québec.
 
 ## Auteur
 
-- Yanis Labbé#
+- Yanis Labbé
