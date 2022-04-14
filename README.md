@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 	<a href="https://github.com/yanislabbe">
-	<img src="images/logo.png" alt="success" width="100" height="100">
+	<img src="images/logo.png" alt="logo">
 	</a>
 </div>
 
